@@ -20,7 +20,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../BaiduNetdiskDownload/KING/尚硅谷 JDBC/3-资料/2-驱动/01-MySQL驱动/mysql-connector-java-5.1.7/mysql-connector-java-5.1.7-bin.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../BaiduNetdiskDownload/KING/尚硅谷 JDBC/3-资料/2-驱动/01-MySQL驱动/mysql-connector-java-5.1.37-bin.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

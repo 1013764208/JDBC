@@ -78,7 +78,5 @@ public class JDBCUtils {
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
-
-
     }
 }
