@@ -85,7 +85,7 @@ public class QueryTest {
         MapListHandler mapListHandler = new MapListHandler();
         List<Map<String, Object>> mapList = runner.query(conn, sql, mapListHandler, 13);
         mapList.forEach(System.out::println);
-        JDBCUtils.closeResource(conn,null);
+        JDBCUtils.closeResource1(conn,null);
     }
 
     // 特殊查询/ 查count
