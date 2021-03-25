@@ -5,8 +5,6 @@ import org.junit.Test;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.SQLClientInfoException;
-import java.sql.Statement;
 
 /**
  * @author HXS
